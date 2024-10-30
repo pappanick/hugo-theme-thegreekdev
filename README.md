@@ -20,7 +20,8 @@
 From the root of your site:
 
 ```shell
-git clone git@github.com:joway/hugo-theme-yinyang.git themes/yinyang
+//git clone git@github.com:joway/hugo-theme-yinyang.git themes/yinyang
+git clone git@github.com:pappanick/hugo-theme-thegreekdev.git themes/thegreekdev
 ```
 
 Change `config.toml`:
