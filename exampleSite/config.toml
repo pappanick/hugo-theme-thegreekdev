@@ -1,7 +1,7 @@
 baseURL = "https://www.thegreek.dev"
 languageCode = "en-us"
 title = "A Greek Dev Blog"
-theme = "yinyang"
+theme = "thegreekdev"
 DefaultContentLanguage = "en"
 
 [author]
