@@ -1,8 +1,8 @@
-name = "Yinyang"
+name = "Greek dev"
 license = "MIT"
-licenselink = "https://github.com/joway/hugo-theme-yinyang/blob/master/LICENSE"
-description = "Yinyang theme for Hugo."
-homepage = "https://github.com/joway/hugo-theme-yinyang"
+licenselink = "https://github.com/pappanick/hugo-theme-thegreekdev/blob/master/LICENSE.md"
+description = "My blog based on yingyang."
+homepage = "https://thegreek.dev"
 tags = [
   "blog",
   "minimal",
@@ -10,16 +10,17 @@ tags = [
   "responsive",
   "simple",
   "clean",
-  "personal"
+  "personal",
+  "art"
 ]
 features = ["blog"]
 min_version = "0.50"
 
 [params]
 staticPrefix = ""
-# extraCSSFiles = ["css/foo.css", "css/bar.css"]
-extraCSSFiles = []
+extraCSSFiles = ["css/foo.css", "css/bar.css"]
+# extraCSSFiles = []
 
 [author]
-  name = "Joway Wang"
-  homepage = "https://joway.io"
+  name = "Nick Pappas"
+  homepage = "https://thegreek.dev"
