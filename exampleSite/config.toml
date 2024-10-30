@@ -1,12 +1,12 @@
-baseURL = "https://example.com"
+baseURL = "https://www.thegreek.dev"
 languageCode = "en-us"
-title = "Example YinYong Blog"
+title = "A Greek Dev Blog"
 theme = "yinyang"
 DefaultContentLanguage = "en"
 
 [author]
-  name = "Joway Wang"
-  homepage = "https://joway.io/"
+  name = "Nick Pappas"
+  homepage = "https://www.thegreek.dev/"
 
 [languages]
   [languages.en]
@@ -14,12 +14,12 @@ DefaultContentLanguage = "en"
     languageName = "English"
     weight = 1
   [languages.cn]
-    contentDir = "content/cn"
-    languageName = "Chinese"
+    contentDir = "content/el"
+    languageName = "Greek"
     weight = 1
 
 [params]
-disqus = "joway" # disqus account name
+disqus = "dbb66ktmbj@privaterelay.appleid.com" # disqus account name
 extraHead = ''
 mainSections = ["posts"]
 
